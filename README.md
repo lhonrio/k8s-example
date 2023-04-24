@@ -64,13 +64,11 @@ git commit -am 'Add some feature'
 git push origin my-feature-branch
 ````
 6. Create a pull request to the original repository.
-
 <br>
 <p>
 
 ## License
 This project is licensed under the MIT License.
-
 <br>
 <p>
 
